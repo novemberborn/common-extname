@@ -1,0 +1,19 @@
+{
+  "name": "common-extname",
+  "version": "0.0.0",
+  "description": "Computes the longest (compound) extension that is common to each path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novemberborn/common-extname.git"
+  },
+  "author": "Mark Wubben (https://novemberborn.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novemberborn/common-extname/issues"
+  },
+  "homepage": "https://github.com/novemberborn/common-extname#readme"
+}
