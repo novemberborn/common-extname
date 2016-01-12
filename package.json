@@ -1,6 +1,6 @@
 {
   "name": "common-extname",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Computes the longest (compound) extension that is common to each path",
   "main": "index.js",
   "files": [
