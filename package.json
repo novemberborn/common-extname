@@ -23,7 +23,7 @@
   "homepage": "https://github.com/novemberborn/common-extname#readme",
   "devDependencies": {
     "@novemberborn/as-i-preach": "^5.0.0",
-    "ava": "^0.17.0",
+    "ava": "^0.18.1",
     "babel-plugin-istanbul": "^3.0.0",
     "nyc": "^10.0.0"
   },
